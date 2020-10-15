@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+}
+ #paragraph{
+   font-size: 50px;
+ }
+ .para-class{
+   font-weight: bold;
+ }
+ body{
+   background-color: red;
+ }
+ .high{width:400px;
+   image-resolution:300dpi;
+  }
+  .smallImg{
+    width:200px;
+    image-resolution: 100dpi;
+  }
